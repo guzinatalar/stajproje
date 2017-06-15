@@ -1,0 +1,2 @@
+# stajproje
+ilkyükleme
